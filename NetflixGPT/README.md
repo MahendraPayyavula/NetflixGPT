@@ -45,5 +45,5 @@ An AI-powered Netflix-like application built with **React**, **Redux**, **Tailwi
 
 ---
 
-## 📦 Project Setup
+
 
